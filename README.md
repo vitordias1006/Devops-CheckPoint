@@ -7,13 +7,13 @@ hospedada em máquina virtual na Azure.
 
 ##  Índice
 
--   Visão Geral\
--   Tecnologias\
--   Endereço da API\
--   Endpoints\
--   Executando na VM (Azure)\
--   Build Local\
--   Status do Projeto\
+-   Visão Geral
+-   Tecnologias
+-   Endereço da API
+-   Endpoints
+-   Executando na VM (Azure)
+-   Build Local
+-   Status do Projeto
 -   Autor
 
 ------------------------------------------------------------------------
